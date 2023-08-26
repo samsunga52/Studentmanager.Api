@@ -1,0 +1,16 @@
+C:\Users\zaino\Documents\Visual Studio 2019\Projects\StudentManagement.API\StudentManagement.Api\StudentManagement.Data\bin\Debug\netcoreapp3.1\StudentManagement.Data.deps.json
+C:\Users\zaino\Documents\Visual Studio 2019\Projects\StudentManagement.API\StudentManagement.Api\StudentManagement.Data\bin\Debug\netcoreapp3.1\StudentManagement.Data.runtimeconfig.json
+C:\Users\zaino\Documents\Visual Studio 2019\Projects\StudentManagement.API\StudentManagement.Api\StudentManagement.Data\bin\Debug\netcoreapp3.1\StudentManagement.Data.runtimeconfig.dev.json
+C:\Users\zaino\Documents\Visual Studio 2019\Projects\StudentManagement.API\StudentManagement.Api\StudentManagement.Data\bin\Debug\netcoreapp3.1\StudentManagement.Data.dll
+C:\Users\zaino\Documents\Visual Studio 2019\Projects\StudentManagement.API\StudentManagement.Api\StudentManagement.Data\bin\Debug\netcoreapp3.1\StudentManagement.Data.pdb
+C:\Users\zaino\Documents\Visual Studio 2019\Projects\StudentManagement.API\StudentManagement.Api\StudentManagement.Data\bin\Debug\netcoreapp3.1\StudentManagement.Model.dll
+C:\Users\zaino\Documents\Visual Studio 2019\Projects\StudentManagement.API\StudentManagement.Api\StudentManagement.Data\bin\Debug\netcoreapp3.1\StudentManagement.Model.pdb
+C:\Users\zaino\Documents\Visual Studio 2019\Projects\StudentManagement.API\StudentManagement.Api\StudentManagement.Data\obj\Debug\netcoreapp3.1\StudentManagement.Data.csproj.AssemblyReference.cache
+C:\Users\zaino\Documents\Visual Studio 2019\Projects\StudentManagement.API\StudentManagement.Api\StudentManagement.Data\obj\Debug\netcoreapp3.1\StudentManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaino\Documents\Visual Studio 2019\Projects\StudentManagement.API\StudentManagement.Api\StudentManagement.Data\obj\Debug\netcoreapp3.1\StudentManagement.Data.AssemblyInfoInputs.cache
+C:\Users\zaino\Documents\Visual Studio 2019\Projects\StudentManagement.API\StudentManagement.Api\StudentManagement.Data\obj\Debug\netcoreapp3.1\StudentManagement.Data.AssemblyInfo.cs
+C:\Users\zaino\Documents\Visual Studio 2019\Projects\StudentManagement.API\StudentManagement.Api\StudentManagement.Data\obj\Debug\netcoreapp3.1\StudentManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\zaino\Documents\Visual Studio 2019\Projects\StudentManagement.API\StudentManagement.Api\StudentManagement.Data\obj\Debug\netcoreapp3.1\StudentManagement.Data.csproj.CopyComplete
+C:\Users\zaino\Documents\Visual Studio 2019\Projects\StudentManagement.API\StudentManagement.Api\StudentManagement.Data\obj\Debug\netcoreapp3.1\StudentManagement.Data.dll
+C:\Users\zaino\Documents\Visual Studio 2019\Projects\StudentManagement.API\StudentManagement.Api\StudentManagement.Data\obj\Debug\netcoreapp3.1\StudentManagement.Data.pdb
+C:\Users\zaino\Documents\Visual Studio 2019\Projects\StudentManagement.API\StudentManagement.Api\StudentManagement.Data\obj\Debug\netcoreapp3.1\StudentManagement.Data.genruntimeconfig.cache
